@@ -1,4 +1,4 @@
-package com.rsgbank.services;
+package com.rsgbank.customerservice.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
